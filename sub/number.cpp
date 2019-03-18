@@ -11,4 +11,10 @@ class number{
 	b=y;                    //parameterized constructor
 	}
 
+
+        int add(){
+	c=a+b;
+	return c;               //fuction add to add a and b
+	}
+	
 };
