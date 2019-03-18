@@ -18,3 +18,12 @@ class number{
 	}
 	
 };
+
+int main(){           //main function
+number N(2,3); //object of a  class number
+cout<<N.add();  //calling function add and printing value return by it.
+
+return 0;                
+
+
+}
